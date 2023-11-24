@@ -1,0 +1,18 @@
+/* Style the page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#content {
+    /* Style content area */
+}
